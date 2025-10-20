@@ -1,6 +1,7 @@
 # Identifying and Defining
 
-#### Identifying a need : **My game 'Mario Run' has a need that needs to be addressed. 2D platformer games are in need of unique mechanics and environmental puzzles. Unique mechanics are things in game like collectbiles or movement that is different like instead of walking you can fly or double jumping mechanics. Environmental puzzles refer to searching the whole map of the game and obtain a specific item. These needs can help enhance these 2D platformer games.**
+#### Identifying a need : 
+My game is going to be 
 
 #### Requirements Outline:
 - **Inputs:** What inputs will your project require?
