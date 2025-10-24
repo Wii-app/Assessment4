@@ -1,7 +1,7 @@
 # Identifying and Defining
 
 #### Identifying a need : 
-My game is going to be 
+My game is going to be MarioRun, my existing 2D platformer game and improving the game playability and the gameplay.
 
 #### Requirements Outline:
 - **Inputs:** What inputs will your project require?
@@ -12,7 +12,10 @@ My game is going to be
 
 
 #### Functional and Non-Functional Specifications:
-List and explain the functional (what the system should do) and non-functional (how the system should behave) requirements of your project.
+##### Functional Specifications
+- Player movement such as running, jumping, and idle (standing still)
+- Player physics like physics and collisions using collider in Unity
+- 
 
 #### Social and Ethical Issues: 
 Consider and analyse any social or ethical issues related to your proposed game or simulation. How will it impact users and society?
