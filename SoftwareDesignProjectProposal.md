@@ -26,7 +26,7 @@ I think that the need of my game, MarioRun needs improvement in its gameplay ove
 
 ### Functional and Non-Functional Specifications:
 #### Functional Specifications
-- Player movement: such as running, jumping, and idle (standing still)
+- Player movement: such as running, jumping, and idle (standing still) and other animated obstacles or collectibles.
 - Player physics: like physics and collisions using collider in Unity so that the player can interect with obstacles and collectibles
 - Game Overs and Restart: The game should detect when the player is defeated and should give options where the player can quit or rety the game
 - Should have collectibles that is for the player to collect so that the player can enter the next level.
