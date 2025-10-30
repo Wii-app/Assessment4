@@ -63,7 +63,25 @@ There may be a couple of social and ethical issues as for my game, MarioRun. The
 | **Hollow Knight**      | Hollow Knight has beautiful art and music that create a mysterious and emotional atmosphere. The world is huge and full of secrets. The combat is challenging but fair. | It’s easy to get lost because the map is hard to follow at first. The game doesn’t give much help or direction, and some parts are really hard. | A deep and challenging game can be amazing, but it should also support players with hints or easier options. Helping players learn slowly could make it more enjoyable.    |
 | **Super Mario Bros.**  | Super Mario Bros. is easy to understand and play, with fun power-ups and levels that lots of people remember. It’s great for beginners and very replayable. | After a while, the levels can feel the same, and there isn’t much story or character development. The graphics are basic and there’s not much enemy variety. | Simple games are great for learning and having fun, but adding more variety and story could make them more exciting. Updating visuals and features helps keep interest.     |
 
-### Psuedocode and Flowcharts
+## Psuedocode and Flowcharts
+
+### Pseudocode
+
+### Flowcharts
+![](MovementFlowchart.png)
+**This flowchart above show the functional requirement of player movement.**
+
+![](PlayerPhysicsAndCollisionFlowchart.png)
+**This flowchart above show the functional requirement of player physics and collisions.**
+
+![](GameOverCongratulationsAndRestartLogic.png)
+**This flowchat above show the functional requirement of Game Over, Congratulations and Restart game logic.**
+
+![](LevelPrograssionFlowchart.png)
+**This flowchart above show the functional requirement of level progression, essential to challenge players and their skills.**
+
+![](CoinAnimationFlowchart.png)
+**This flowchart above is a extra functional requirement that affects the collectible. This can also be an obstacle.**
 
 ### Storyboards
 - My storyboards are handed in to Mr Groom because it is on paper.
