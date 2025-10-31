@@ -67,6 +67,77 @@ There may be a couple of social and ethical issues as for my game, MarioRun. The
 
 ### Pseudocode 1: Player Movement
 ````
+BEGIN Movement
+
+    INPUT userInput
+    IF 'A' or left arrow key is pressed THEN
+        Move player right
+    ELSE IF 'D' or right arrow key is pressed THEN
+        Move player left
+    ELSE IF 'Spacebar' or 'W' pressed THEN
+        Player jump
+
+END Movement
+````
+
+### Psuedocode 2: Player Physics and Collisions
+````
+BEGIN player physics and collisions
+
+    INPUT PlayermovementInput
+    ADD RigidBody2D physics
+    Check the charcter for collisions for 2D collider
+    IF character collide to another obstacle
+        Character moves left
+    ELSE IF character collide to another collectible
+        Character goes to the next level
+    ELSE Character continues movement untill death or next level
+
+END player physics and collisions
+````
+
+### Psuedocode 3: Game Over, Congratulations and Restart Logic
+````
+BEGIN the game
+
+    gameInput
+    IF character die
+        Show the Game Over splash screen
+    ELSE Did the character finish all levels?
+        Show the Congratulations splash screen
+        The player quits the game
+
+    IF player wants to restart
+        The player restarts from the start
+    ELSE the player quits the game
+
+END the game
+````
+
+### Pseudocode 4: Level Progression
+````
+BEGIN levels (scenes)
+    playermovementInput
+    gameInput
+    Start at tutorial
+    IF player complete level
+        The player advance to the next level
+        Increased difficulty when leveling up
+    ELSE retry the level (scene)
+
+END levels (scenes)
+````
+
+### Pseudocode 5: Coin Animation (collectible)
+````
+BEGIN coin animation
+
+    animationInput
+    IF coin is in the scene
+        coin animation is shown
+    ELSE no coin animation is shown in current scene
+
+END coin animation
 ````
 ### Flowcharts
 ![](MovementFlowchart.png)
