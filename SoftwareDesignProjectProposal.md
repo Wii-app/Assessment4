@@ -65,8 +65,9 @@ There may be a couple of social and ethical issues as for my game, MarioRun. The
 
 ## Psuedocode and Flowcharts
 
-### Pseudocode
-
+### Pseudocode 1: Player Movement
+````
+````
 ### Flowcharts
 ![](MovementFlowchart.png)
 **This flowchart above show the functional requirement of player movement.**
@@ -84,7 +85,9 @@ There may be a couple of social and ethical issues as for my game, MarioRun. The
 **This flowchart above is a extra functional requirement that affects the collectible. This can also be an obstacle.**
 
 ### Storyboards
-- My storyboards are handed in to Mr Groom because it is on paper.
+My storyboards are handed in to Mr Groom because it is on paper. However this storyboard below is the whole game storyboard ⬇️
+![](WholeGameStoryboard.png)
+
 
 ### Time and Action Plan
 This gantt chart shows how I modeled my time to work on the Assessment and at the rest of year, I would be working on my game.
