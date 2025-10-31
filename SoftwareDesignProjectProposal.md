@@ -87,3 +87,5 @@ There may be a couple of social and ethical issues as for my game, MarioRun. The
 - My storyboards are handed in to Mr Groom because it is on paper.
 
 ### Time and Action Plan
+This gantt chart shows how I modeled my time to work on the Assessment and at the rest of year, I would be working on my game.
+![](GanttChart.png)
