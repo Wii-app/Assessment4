@@ -1,3 +1,3 @@
 # Assessment 4
 Includes:
-- Developer Portfolio
+- Developer Portfolio for Part 2 of the assessment task
