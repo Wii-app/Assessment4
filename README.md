@@ -1,3 +1,3 @@
 # Assessment 4
 Includes:
-- Developer Portfolio for Part 2 of the assessment task
+- Developer Portfolio for Part 2 of the assessment task (under SoftwareDesignProjectProposal.md file)
