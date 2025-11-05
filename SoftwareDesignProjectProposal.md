@@ -161,5 +161,5 @@ My storyboards are handed in to Mr Groom because it is on paper. However this st
 
 
 ### Time and Action Plan
-This gantt chart shows how I modeled my time to work on the Assessment and at the rest of year, I would be working on my game.
+This gantt chart shows how I modeled my time to work on the Assessment and at the rest of year, I would be working on my game. These things include more animated obstacles, puzzles and checkpoints if possible.
 ![](GanttChart.png)
